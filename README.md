@@ -1,7 +1,7 @@
-# Subashree-A-19CS301-Module7
+# Naveen P-19CS301-Module7
 
-- **Name:** Subashree A  
-- **Register Number:** 212222020029
+- **Name:** Naveen P
+- **Register Number:** 212222050039
 
 
 # 19CS301-Module7
