@@ -28,4 +28,6 @@ else:
 ### Output:
 ![image](https://github.com/user-attachments/assets/c4d6416f-d333-49c1-9dd5-0f774cdabb03)
 
-###Result: Thus, the given program is implemented and executed successfully.
+Result: 
+
+Thus, the given program is implemented and executed successfully.
